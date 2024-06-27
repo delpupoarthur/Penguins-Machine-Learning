@@ -1,0 +1,1 @@
+O dataset Penguins é um conjunto de dados utilizado para análises de machine learning e estatísticas, fornecendo informações sobre três espécies de pinguins (Adelie, Chinstrap e Gentoo) coletadas nas ilhas Palmer, Biscoe e Dream, na Antártida. Este dataset é frequentemente utilizado como uma alternativa ao famoso dataset Iris para estudos de classificação.
